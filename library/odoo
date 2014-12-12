@@ -1,4 +1,4 @@
 # maintainer: Aaron Bohy <aab@odoo.com> (@aab-odoo)
 
-8.0: git://github.com/odoo/docker@121e4fdc1d17d978e37b03a5331c70cca4bd3344 8.0
-8: git://github.com/odoo/docker@121e4fdc1d17d978e37b03a5331c70cca4bd3344 8.0
+8.0: git://github.com/odoo/docker@89f8e90878947919acc111e14434a46caddbec47 8.0
+8: git://github.com/odoo/docker@89f8e90878947919acc111e14434a46caddbec47 8.0
